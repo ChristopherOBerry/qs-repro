@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(245, 239, 239);
+}
+
+.bar-primary {
+    background-color:#3F51B5;
+    height:10vh;
+    
+    
+}
+:hover {
+
+}
+
+.bar-secondary {
+    background-color:#7986cb;
+    height:8vh;
+    font-size: 1.1vw;
+    
+}
+
+.glyph-color {
+    color: white;
+}
+
