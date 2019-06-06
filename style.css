@@ -1,6 +1,9 @@
 body {
     background-color: rgb(245, 239, 239);
 }
+.col-1:hover{
+    background-color:#7986cb;
+}
 
 .bar-primary {
     background-color:#3F51B5;
@@ -8,7 +11,6 @@ body {
     
     
 }
-
 
 .bar-secondary {
     background-color:#7986cb;
